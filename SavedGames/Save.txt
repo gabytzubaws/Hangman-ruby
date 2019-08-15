@@ -1,0 +1,6 @@
+--- !ruby/object:Game
+guess: ''
+guesses: 2
+secret_word: diphtheria
+used_letters: cesh
+answer: '_ _ _ h _ h e _ _ _ '
